@@ -7,7 +7,7 @@ public class Frame extends JFrame {
     Panel panel = new Panel();
 
     public Frame(){
-        this.setTitle("Pixel Bot");
+        this.setTitle("Para Iara");
         this.setLayout(null);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setResizable(false);
