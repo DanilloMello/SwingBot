@@ -33,6 +33,7 @@ public class Panel extends JPanel implements ActionListener{
         this.add(button);       
         
     }
+    
     @Override
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == button){   
