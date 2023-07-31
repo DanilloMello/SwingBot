@@ -2,7 +2,7 @@ package com.github.danillomello;
 
 import javax.swing.SwingUtilities;
 
-import com.github.danillomello.components.Frame;
+import com.github.danillomello.view.components.Frame;
 
 public class App {
     

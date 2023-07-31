@@ -1,4 +1,4 @@
-package com.github.danillomello.components;
+package com.github.danillomello.view.components;
 
 import javax.swing.JFrame;
 
