@@ -10,7 +10,6 @@ import com.github.danillomello.view.actions.PixelButtonAction;
 
 public class Panel extends JPanel {
 
-
     FrameButton button;
 
     public Panel() {
